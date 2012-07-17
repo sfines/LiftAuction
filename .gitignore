@@ -8,3 +8,11 @@
 
 .idea/*
 .idea_modules/*
+
+database/*.db
+*.iml
+
+project/target/*
+target/*
+project/project/target/*
+
