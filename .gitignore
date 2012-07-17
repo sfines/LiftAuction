@@ -1,0 +1,10 @@
+#Java Stuff
+*.class
+*.jar
+*.war
+*.ear
+*.sar
+*.har
+
+.idea/*
+
