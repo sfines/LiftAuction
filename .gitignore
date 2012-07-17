@@ -15,4 +15,4 @@ database/*.db
 project/target/*
 target/*
 project/project/target/*
-
+*.*~
