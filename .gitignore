@@ -7,4 +7,4 @@
 *.har
 
 .idea/*
-
+.idea_modules/*
